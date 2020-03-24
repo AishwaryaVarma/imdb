@@ -1,4 +1,5 @@
-#Our goal will be to have a simple web page which a user can use to enter a movie review.
+Deploying a Sagemaker service to construct a model to predict the sentiment of a movie review. The model can further be deployed to an endpoint and construct a very simple web app which will interact with the your model's deployed endpoint. 
+
 
 %mkdir ../data
 !wget -O ../data/aclImdb_v1.tar.gz http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
